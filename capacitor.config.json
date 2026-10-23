@@ -1,0 +1,14 @@
+{
+  "appId": "com.voxa.app",
+  "appName": "Voxa",
+  "webDir": "www",
+  "backgroundColor": "#0b141b",
+  "ios": {
+    "contentInset": "never"
+  },
+  "plugins": {
+    "LocalNotifications": {
+      "iconColor": "#0FB5A0"
+    }
+  }
+}

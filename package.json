@@ -1,0 +1,14 @@
+{
+  "name": "voxa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Voxa — мессенджер (Capacitor, iOS)",
+  "dependencies": {
+    "@capacitor/browser": "^6.0.0",
+    "@capacitor/cli": "^6.2.0",
+    "@capacitor/core": "^6.2.0",
+    "@capacitor/ios": "^6.2.0",
+    "@capacitor/local-notifications": "^6.1.0",
+    "@capacitor/push-notifications": "^6.0.0"
+  }
+}
